@@ -26,7 +26,7 @@ class MainActivity : AppCompatActivity() {
 
         }
 
-//        binding.webView.loadUrl("https://www.bing.com/")
+        binding.webView.loadUrl("https://www.bing.com/")
 
 
     }
